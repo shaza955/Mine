@@ -4,7 +4,7 @@
 	<title>Guessing Game for Charles Severance 10220ded </title>
 </head>
 <body>
-<h1> Welcome to my guessing game </h1>
+<h1> Welcome to my guessing game 10220ded </h1>
 <p>Your guess is too low </p>
 <?php 
 $correctnumber = 18;
