@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Shaza Albodi and/or 10220ded </title>
+	<title>10220ded</title>
 </head>
 <body>
 <h1> Welcome to my guessing game 10220ded </h1>
