@@ -5,6 +5,7 @@
 </head>
 <body>
 <h1> Welcome to my guessing game 10220ded </h1>
+<h2> Shaza Albodi </h2>
 <p>Your guess is too low </p>
 <?php 
 $correctnumber = 18;
@@ -24,7 +25,7 @@ if(isset($_GET['guess'])){
 }
 else{
 	echo "Missing guess parameter";
-	echo "Your is too short";
+	echo "Your guess is too short";
 }
 </body>
 </html>
