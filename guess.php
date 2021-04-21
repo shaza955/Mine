@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Shaza Albodi10220ded</title>
+	<title>Shaza Albodi</title>
 </head>
 <body>
 <h1> Shaza Albodi10220ded</h1>
