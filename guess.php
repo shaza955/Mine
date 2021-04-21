@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Shaza Albodi</title>
+	<title> <?php echo "(Shaza Albodi)"; ?></title>
 </head>
 <body>
-<h1> Shaza Albodi</h1>
+<h1> (Shaza Albodi)</h1>
 <p>Your guess is too low </p>
 <?php 
 $correctnumber = 18;
