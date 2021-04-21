@@ -4,7 +4,7 @@
 	<title>Shaza Albodi</title>
 </head>
 <body>
-<h1> Shaza Albodi10220ded</h1>
+<h1> Shaza Albodi</h1>
 <p>Your guess is too low </p>
 <?php 
 $correctnumber = 18;
