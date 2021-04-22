@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> <?php echo "(Shaza Albodi)"; ?></title>
+	<title> Guessing game for Shaza Albodi</title>
 </head>
 <body>
 <h1> (Shaza Albodi)</h1>
